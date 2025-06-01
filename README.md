@@ -7,3 +7,6 @@ Autores:
 - Yoshua Morales (22145)
 
 - 
+
+
+Para correr el codigo, puede accederlo directo desde el Rmarkdown, ya tener instalado R (version 3.2.2).
